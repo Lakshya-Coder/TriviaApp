@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Trivia App</string>
+    <string name="title_text">Trivia</string>
+    <string name="out_of_text">Loading…</string>
+    <string name="true_button">True</string>
+    <string name="false_button">False</string>
+    <string name="next_button">Next</string>
+    <string name="placeholder">Question</string>
+    <string name="difficulty_text">Difficulty</string>
+    <string name="category_text">Category</string>
+    <string name="question">Question: %d/%d</string>
+    <string name="correct_answer">Correct</string>
+    <string name="wrong_answer">Wrong</string>
+    <string name="prev_value">Prev</string>
+    <string name="current_score_text">Current score: 0</string>
+    <string name="highest_score">Highest score: 10</string>
+    <string name="cureent_score">Current score: %d</string>
+    <string name="highest_score_text">Highest score: %d</string>
+</resources>
